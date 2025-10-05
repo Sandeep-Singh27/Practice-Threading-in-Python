@@ -1,3 +1,5 @@
+#Called Mutex in some language (Mutual Exclusion)
+
 import time
 from concurrent.futures import ThreadPoolExecutor
 import threading
